@@ -1,5 +1,7 @@
 This is the repository of Eidos(https://github.com/mayneyao/eidos) resources created by me
 
+Task.eidos is a "template" to use Eidos as a personal task management.
+
 Notas.eidos is an eidos file with my initial "template" to use Eidos as a note-taking app.
 
 It uses the " davi.folders-view" (you can download here),  a plugin that turn the tags field in "folders". In fact it's just visual. (https://github.com/mayneyao/eidos/issues/415)
