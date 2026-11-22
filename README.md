@@ -1,4 +1,4 @@
-This is the repository Eidos (https://github.com/mayneyao/eidos) resources created by me
+This is the repository of Eidos(https://github.com/mayneyao/eidos) resources created by me
 
 Notas.eidos is an eidos file with my initial "template" to use Eidos as a note-taking app.
 
